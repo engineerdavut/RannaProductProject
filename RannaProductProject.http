@@ -1,0 +1,6 @@
+@RannaProductProject_HostAddress = http://localhost:5264
+
+GET {{RannaProductProject_HostAddress}}/rannaproductproject/
+Accept: application/json
+
+###
